@@ -1,0 +1,10 @@
+{
+    "realm": "jviejo100",
+    "auth-server-url": "https://sso.gttinternacional.com/auth",
+    "ssl-required": "none",
+    "resource": "demo",
+    "public-client": true,
+    "verify-token-audience": true,
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+}
